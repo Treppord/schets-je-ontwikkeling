@@ -1,12 +1,12 @@
-# schets je ontwikkeling
+# Schets je ontwikkeling
 
 
-# Home
+## Home
 
 In deze deel taak laat ik mijn ontwikkeling zien door middel van schetsen
 
 
-# Informatie verzamelen
+## Informatie verzamelen
 
 In dit kopje laat ik de informatie zien die ik wil verwerken in mijn praatplaat.
 Deze 3 onderdelen heb ik hierbij gebruikt: school, muziek (werk) en privé.
@@ -22,7 +22,7 @@ Hierboven laat ik zien hoe ik dat heb gedaan, ik heb mezelf 4 vragen gesteld om 
 Ik heb goed naar mezelf gekeken en hoe alles deze afgelopen periode is gegaan.
 
 
-# Structuren 
+## Structuren 
 
 
 In dit gedeelte wil ik de gebieden benadrukken waar ik dacht dat ik vooruitgang boekte en die delen waarvan ik vond dat er ruimte was voor verbetering. Mijn bedoeling is om een visuele tijdlijn te presenteren die mijn persoonlijke ontwikkeling en de terreinen waarop ik nog verder kan groeien, laat zien. Het is als een overzicht van mijn sterke punten en de vlakken waarop ik nog wil groeien en waar ik hoop te staan in de toekomst, weergegeven aan de hand van een tijdschema.
@@ -33,7 +33,7 @@ Het eerste deel van het jaar, van september tot oktober, was behoorlijk vol met 
 
 Het tweede deel gaat over de komende tijd. Ik kijk naar mijn plannen voor school, werk en andere dingen die ik moet doen. Als ik eraan denk, probeer ik te voelen hoe ik me daarbij voel. Dat helpt me om een idee te krijgen van wat er gaat komen en hoe ik me daarbij zal voelen. Het is eigenlijk een soort voorspelling van wat ik kan verwachten.
 
-# Divergeren 
+## Divergeren 
 
 Ik ben gaan kijken naar inspiratie online voor mij metaforen , ik ben gaan kijken naar symbolen en quotes die mij aanspraken. Vanuit die twee punten ben ik gaan schetsen en ben ik uiteindelijk met deze ideeën gekomen.
 
@@ -48,7 +48,7 @@ Wat ik hiermee wil laten zien is dat ik af en toe met mezelf worstel als het gaa
 - **Boord met meerdere wegen**
 Ik kan niet overal te gelijk zijn en ook niet alles doen hoe graag ik dat ook zou willen. Ik raak vaak snel enthousiast en voor ik het weet heb ik allemaal opties voor me maar geen idee hoe ik veder moet gaan of wat de slimste keuze is.
 
-# Convergeren 
+## Convergeren 
 
 Na heel veel zelf reflectie en nadenken het ik een keuze kunnen maken over welke metafoor mij het meest liet zien wie ik was er wat er in mij speelt en dat is de metafoor over de rotsen.
 
